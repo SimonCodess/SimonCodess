@@ -1,4 +1,5 @@
 # Hello there!
+![Hello there!](https://github.com/SimonCodess/SimonCodess/blob/main/git_banner.png?raw=true)
 
 I'm Simon from Czech Republic and I do web development. I enjoy the whole process, from designing my very own websites to creating an interesting back-end! Still in High School I'm trying my very best to create interesting projects and get better on daily basis!
 
